@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["8LH4JK6B3B.day.align.Align"],
+        "components": [
+          {
+            "/": "/plan*",
+            "comment": "Day plans handed over by assistants (ChatGPT and others). Everyone without the app lands on the /plan page."
+          }
+        ]
+      }
+    ]
+  }
+}
